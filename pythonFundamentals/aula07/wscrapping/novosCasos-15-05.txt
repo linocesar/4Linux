@@ -1,0 +1,632 @@
+Últimos Casos Confirmados
+630 novo(s) caso(s)
+1. Homem, 50 anos, de Abaetetuba
+2. Mulher, 32 anos, de Acará
+3. Mulher, 42 anos, de Acará
+4. Homem, 48 anos, de Acará
+5. Mulher, 67 anos, de Acará
+6. Mulher, 73 anos, de Alenquer
+7. Mulher, 21 anos, de Altamira
+8. Mulher, 21 anos, de Altamira
+9. Homem, 33 anos, de Altamira
+10. Mulher, 37 anos, de Altamira
+11. Mulher, 45 anos, de Altamira
+12. Homem, 24 anos, de Anajás
+13. Mulher, 33 anos, de Anajás
+14. Mulher, 45 anos, de Anajás
+15. Mulher, 47 anos, de Anajás
+16. Homem, 61 anos, de Anajás
+17. Homem, 69 anos, de Anajás
+18. Homem, 0 anos, de Ananindeua
+19. Mulher, 28 anos, de Ananindeua
+20. Homem, 30 anos, de Ananindeua
+21. Homem, 32 anos, de Ananindeua
+22. Homem, 33 anos, de Ananindeua
+23. Homem, 33 anos, de Ananindeua
+24. Homem, 34 anos, de Ananindeua
+25. Mulher, 35 anos, de Ananindeua
+26. Homem, 37 anos, de Ananindeua
+27. Homem, 37 anos, de Ananindeua
+28. Homem, 38 anos, de Ananindeua
+29. Homem, 38 anos, de Ananindeua
+30. Mulher, 40 anos, de Ananindeua
+31. Mulher, 41 anos, de Ananindeua
+32. Mulher, 43 anos, de Ananindeua
+33. Mulher, 43 anos, de Ananindeua
+34. Mulher, 44 anos, de Ananindeua
+35. Mulher, 44 anos, de Ananindeua
+36. Homem, 44 anos, de Ananindeua
+37. Mulher, 44 anos, de Ananindeua
+38. Homem, 45 anos, de Ananindeua
+39. Homem, 45 anos, de Ananindeua
+40. Homem, 45 anos, de Ananindeua
+41. Homem, 45 anos, de Ananindeua
+42. Homem, 46 anos, de Ananindeua
+43. Mulher, 46 anos, de Ananindeua
+44. Mulher, 47 anos, de Ananindeua
+45. Mulher, 47 anos, de Ananindeua
+46. Homem, 47 anos, de Ananindeua
+47. Mulher, 49 anos, de Ananindeua
+48. Homem, 50 anos, de Ananindeua
+49. Homem, 50 anos, de Ananindeua
+50. Mulher, 52 anos, de Ananindeua
+51. Mulher, 52 anos, de Ananindeua
+52. Homem, 52 anos, de Ananindeua
+53. Homem, 52 anos, de Ananindeua
+54. Homem, 53 anos, de Ananindeua
+55. Homem, 54 anos, de Ananindeua
+56. Mulher, 60 anos, de Ananindeua
+57. Mulher, 62 anos, de Ananindeua
+58. Homem, 62 anos, de Ananindeua
+59. Mulher, 64 anos, de Ananindeua
+60. Mulher, 66 anos, de Ananindeua
+61. Homem, 69 anos, de Ananindeua
+62. Mulher, 71 anos, de Ananindeua
+63. Mulher, 72 anos, de Ananindeua
+64. Homem, 76 anos, de Ananindeua
+65. Mulher, Idade não informada, de Ananindeua
+66. Homem, 22 anos, de Anapu
+67. Homem, 27 anos, de Anapu
+68. Mulher, 32 anos, de Anapu
+69. Homem, 33 anos, de Anapu
+70. Homem, 59 anos, de Barcarena
+71. Mulher, 32 anos, de Belterra
+72. Mulher, 49 anos, de Belterra
+73. Homem, 0 anos, de Belém
+74. Mulher, 20 anos, de Belém
+75. Homem, 23 anos, de Belém
+76. Homem, 23 anos, de Belém
+77. Mulher, 23 anos, de Belém
+78. Mulher, 23 anos, de Belém
+79. Mulher, 24 anos, de Belém
+80. Homem, 24 anos, de Belém
+81. Mulher, 25 anos, de Belém
+82. Homem, 25 anos, de Belém
+83. Homem, 25 anos, de Belém
+84. Mulher, 25 anos, de Belém
+85. Mulher, 26 anos, de Belém
+86. Homem, 26 anos, de Belém
+87. Mulher, 26 anos, de Belém
+88. Homem, 27 anos, de Belém
+89. Homem, 27 anos, de Belém
+90. Mulher, 28 anos, de Belém
+91. Mulher, 28 anos, de Belém
+92. Homem, 29 anos, de Belém
+93. Mulher, 29 anos, de Belém
+94. Mulher, 29 anos, de Belém
+95. Homem, 30 anos, de Belém
+96. Homem, 30 anos, de Belém
+97. Homem, 30 anos, de Belém
+98. Mulher, 30 anos, de Belém
+99. Homem, 30 anos, de Belém
+100. Homem, 30 anos, de Belém
+101. Mulher, 31 anos, de Belém
+102. Mulher, 31 anos, de Belém
+103. Mulher, 31 anos, de Belém
+104. Mulher, 31 anos, de Belém
+105. Homem, 31 anos, de Belém
+106. Homem, 33 anos, de Belém
+107. Mulher, 33 anos, de Belém
+108. Mulher, 33 anos, de Belém
+109. Homem, 34 anos, de Belém
+110. Homem, 34 anos, de Belém
+111. Mulher, 34 anos, de Belém
+112. Homem, 34 anos, de Belém
+113. Mulher, 34 anos, de Belém
+114. Mulher, 34 anos, de Belém
+115. Mulher, 35 anos, de Belém
+116. Mulher, 35 anos, de Belém
+117. Mulher, 35 anos, de Belém
+118. Mulher, 35 anos, de Belém
+119. Mulher, 35 anos, de Belém
+120. Homem, 36 anos, de Belém
+121. Homem, 36 anos, de Belém
+122. Mulher, 36 anos, de Belém
+123. Homem, 36 anos, de Belém
+124. Homem, 36 anos, de Belém
+125. Mulher, 36 anos, de Belém
+126. Mulher, 36 anos, de Belém
+127. Mulher, 37 anos, de Belém
+128. Homem, 37 anos, de Belém
+129. Homem, 37 anos, de Belém
+130. Mulher, 37 anos, de Belém
+131. Homem, 37 anos, de Belém
+132. Homem, 37 anos, de Belém
+133. Mulher, 37 anos, de Belém
+134. Homem, 38 anos, de Belém
+135. Homem, 38 anos, de Belém
+136. Mulher, 38 anos, de Belém
+137. Mulher, 38 anos, de Belém
+138. Homem, 38 anos, de Belém
+139. Mulher, 39 anos, de Belém
+140. Homem, 39 anos, de Belém
+141. Homem, 39 anos, de Belém
+142. Homem, 39 anos, de Belém
+143. Mulher, 39 anos, de Belém
+144. Mulher, 39 anos, de Belém
+145. Homem, 39 anos, de Belém
+146. Mulher, 39 anos, de Belém
+147. Homem, 39 anos, de Belém
+148. Mulher, 39 anos, de Belém
+149. Homem, 39 anos, de Belém
+150. Mulher, 40 anos, de Belém
+151. Mulher, 40 anos, de Belém
+152. Homem, 40 anos, de Belém
+153. Homem, 40 anos, de Belém
+154. Mulher, 40 anos, de Belém
+155. Homem, 40 anos, de Belém
+156. Homem, 40 anos, de Belém
+157. Homem, 41 anos, de Belém
+158. Mulher, 41 anos, de Belém
+159. Mulher, 41 anos, de Belém
+160. Homem, 41 anos, de Belém
+161. Homem, 41 anos, de Belém
+162. Homem, 41 anos, de Belém
+163. Mulher, 41 anos, de Belém
+164. Homem, 41 anos, de Belém
+165. Homem, 42 anos, de Belém
+166. Homem, 42 anos, de Belém
+167. Homem, 42 anos, de Belém
+168. Mulher, 43 anos, de Belém
+169. Mulher, 43 anos, de Belém
+170. Mulher, 43 anos, de Belém
+171. Homem, 43 anos, de Belém
+172. Mulher, 43 anos, de Belém
+173. Homem, 44 anos, de Belém
+174. Mulher, 44 anos, de Belém
+175. Mulher, 44 anos, de Belém
+176. Mulher, 45 anos, de Belém
+177. Homem, 45 anos, de Belém
+178. Homem, 45 anos, de Belém
+179. Homem, 45 anos, de Belém
+180. Mulher, 46 anos, de Belém
+181. Homem, 46 anos, de Belém
+182. Homem, 47 anos, de Belém
+183. Homem, 47 anos, de Belém
+184. Mulher, 47 anos, de Belém
+185. Mulher, 48 anos, de Belém
+186. Mulher, 48 anos, de Belém
+187. Mulher, 48 anos, de Belém
+188. Mulher, 48 anos, de Belém
+189. Mulher, 48 anos, de Belém
+190. Homem, 48 anos, de Belém
+191. Homem, 48 anos, de Belém
+192. Homem, 48 anos, de Belém
+193. Mulher, 48 anos, de Belém
+194. Mulher, 49 anos, de Belém
+195. Mulher, 49 anos, de Belém
+196. Homem, 49 anos, de Belém
+197. Mulher, 49 anos, de Belém
+198. Homem, 49 anos, de Belém
+199. Homem, 50 anos, de Belém
+200. Homem, 50 anos, de Belém
+201. Mulher, 50 anos, de Belém
+202. Homem, 50 anos, de Belém
+203. Mulher, 51 anos, de Belém
+204. Mulher, 51 anos, de Belém
+205. Homem, 51 anos, de Belém
+206. Homem, 52 anos, de Belém
+207. Homem, 52 anos, de Belém
+208. Homem, 52 anos, de Belém
+209. Mulher, 52 anos, de Belém
+210. Homem, 53 anos, de Belém
+211. Mulher, 53 anos, de Belém
+212. Homem, 53 anos, de Belém
+213. Mulher, 54 anos, de Belém
+214. Mulher, 54 anos, de Belém
+215. Mulher, 55 anos, de Belém
+216. Mulher, 55 anos, de Belém
+217. Homem, 55 anos, de Belém
+218. Mulher, 55 anos, de Belém
+219. Homem, 56 anos, de Belém
+220. Homem, 56 anos, de Belém
+221. Mulher, 56 anos, de Belém
+222. Homem, 57 anos, de Belém
+223. Homem, 57 anos, de Belém
+224. Homem, 57 anos, de Belém
+225. Homem, 57 anos, de Belém
+226. Mulher, 57 anos, de Belém
+227. Mulher, 57 anos, de Belém
+228. Homem, 57 anos, de Belém
+229. Mulher, 58 anos, de Belém
+230. Mulher, 58 anos, de Belém
+231. Mulher, 58 anos, de Belém
+232. Mulher, 59 anos, de Belém
+233. Homem, 59 anos, de Belém
+234. Mulher, 60 anos, de Belém
+235. Homem, 60 anos, de Belém
+236. Homem, 60 anos, de Belém
+237. Mulher, 61 anos, de Belém
+238. Mulher, 61 anos, de Belém
+239. Mulher, 61 anos, de Belém
+240. Homem, 61 anos, de Belém
+241. Mulher, 61 anos, de Belém
+242. Mulher, 61 anos, de Belém
+243. Mulher, 62 anos, de Belém
+244. Mulher, 62 anos, de Belém
+245. Homem, 62 anos, de Belém
+246. Homem, 63 anos, de Belém
+247. Homem, 63 anos, de Belém
+248. Mulher, 63 anos, de Belém
+249. Homem, 64 anos, de Belém
+250. Homem, 64 anos, de Belém
+251. Homem, 65 anos, de Belém
+252. Homem, 65 anos, de Belém
+253. Homem, 65 anos, de Belém
+254. Mulher, 66 anos, de Belém
+255. Mulher, 66 anos, de Belém
+256. Homem, 66 anos, de Belém
+257. Homem, 66 anos, de Belém
+258. Mulher, 67 anos, de Belém
+259. Mulher, 67 anos, de Belém
+260. Mulher, 68 anos, de Belém
+261. Mulher, 68 anos, de Belém
+262. Homem, 68 anos, de Belém
+263. Mulher, 69 anos, de Belém
+264. Homem, 69 anos, de Belém
+265. Homem, 69 anos, de Belém
+266. Homem, 69 anos, de Belém
+267. Homem, 70 anos, de Belém
+268. Homem, 70 anos, de Belém
+269. Homem, 70 anos, de Belém
+270. Homem, 71 anos, de Belém
+271. Mulher, 71 anos, de Belém
+272. Homem, 72 anos, de Belém
+273. Homem, 72 anos, de Belém
+274. Homem, 72 anos, de Belém
+275. Homem, 73 anos, de Belém
+276. Homem, 74 anos, de Belém
+277. Mulher, 74 anos, de Belém
+278. Homem, 74 anos, de Belém
+279. Homem, 74 anos, de Belém
+280. Mulher, 74 anos, de Belém
+281. Homem, 75 anos, de Belém
+282. Mulher, 75 anos, de Belém
+283. Mulher, 75 anos, de Belém
+284. Mulher, 76 anos, de Belém
+285. Homem, 76 anos, de Belém
+286. Mulher, 76 anos, de Belém
+287. Homem, 76 anos, de Belém
+288. Mulher, 76 anos, de Belém
+289. Mulher, 76 anos, de Belém
+290. Homem, 77 anos, de Belém
+291. Homem, 77 anos, de Belém
+292. Homem, 78 anos, de Belém
+293. Homem, 78 anos, de Belém
+294. Mulher, 78 anos, de Belém
+295. Homem, 78 anos, de Belém
+296. Mulher, 8 anos, de Belém
+297. Mulher, 80 anos, de Belém
+298. Homem, 80 anos, de Belém
+299. Homem, 82 anos, de Belém
+300. Homem, 82 anos, de Belém
+301. Homem, 82 anos, de Belém
+302. Mulher, 83 anos, de Belém
+303. Mulher, 85 anos, de Belém
+304. Homem, 86 anos, de Belém
+305. Homem, 87 anos, de Belém
+306. Mulher, 87 anos, de Belém
+307. Mulher, 90 anos, de Belém
+308. Homem, 37 anos, de Bragança
+309. Mulher, 44 anos, de Bragança
+310. Homem, 62 anos, de Bragança
+311. Mulher, 26 anos, de Breves
+312. Mulher, 32 anos, de Breves
+313. Mulher, 34 anos, de Breves
+314. Homem, 35 anos, de Breves
+315. Homem, 56 anos, de Breves
+316. Homem, 63 anos, de Breves
+317. Mulher, 70 anos, de Breves
+318. Mulher, 72 anos, de Breves
+319. Mulher, 75 anos, de Breves
+320. Homem, 77 anos, de Breves
+321. Homem, 96 anos, de Breves
+322. Mulher, 14 anos, de Cametá
+323. Mulher, 15 anos, de Cametá
+324. Homem, 22 anos, de Cametá
+325. Mulher, 28 anos, de Cametá
+326. Mulher, 32 anos, de Cametá
+327. Mulher, 33 anos, de Cametá
+328. Mulher, 34 anos, de Cametá
+329. Homem, 37 anos, de Cametá
+330. Mulher, 37 anos, de Cametá
+331. Homem, 40 anos, de Cametá
+332. Mulher, 43 anos, de Cametá
+333. Homem, 45 anos, de Cametá
+334. Mulher, 46 anos, de Cametá
+335. Homem, 53 anos, de Cametá
+336. Mulher, 57 anos, de Cametá
+337. Mulher, 59 anos, de Cametá
+338. Mulher, 66 anos, de Cametá
+339. Homem, 67 anos, de Cametá
+340. Mulher, 82 anos, de Cametá
+341. Homem, 85 anos, de Cametá
+342. Homem, 0 anos, de Canaã dos Carajás
+343. Homem, 32 anos, de Canaã dos Carajás
+344. Homem, 35 anos, de Canaã dos Carajás
+345. Homem, 38 anos, de Canaã dos Carajás
+346. Homem, 38 anos, de Canaã dos Carajás
+347. Homem, 40 anos, de Canaã dos Carajás
+348. Mulher, 49 anos, de Canaã dos Carajás
+349. Mulher, 50 anos, de Canaã dos Carajás
+350. Homem, 58 anos, de Canaã dos Carajás
+351. Homem, 62 anos, de Canaã dos Carajás
+352. Homem, 81 anos, de Canaã dos Carajás
+353. Mulher, 100 anos, de Castanhal
+354. Mulher, 24 anos, de Castanhal
+355. Mulher, 24 anos, de Castanhal
+356. Homem, 39 anos, de Castanhal
+357. Homem, 43 anos, de Castanhal
+358. Mulher, 50 anos, de Castanhal
+359. Mulher, 55 anos, de Castanhal
+360. Homem, 56 anos, de Castanhal
+361. Mulher, 59 anos, de Castanhal
+362. Mulher, 61 anos, de Castanhal
+363. Homem, 62 anos, de Castanhal
+364. Mulher, 66 anos, de Castanhal
+365. Mulher, 67 anos, de Castanhal
+366. Homem, 67 anos, de Castanhal
+367. Mulher, 68 anos, de Castanhal
+368. Mulher, 68 anos, de Castanhal
+369. Homem, 70 anos, de Castanhal
+370. Mulher, 80 anos, de Castanhal
+371. Homem, 91 anos, de Castanhal
+372. Mulher, 61 anos, de Colares
+373. Homem, 65 anos, de Colares
+374. Homem, 79 anos, de Colares
+375. Mulher, 45 anos, de Conceição do Araguaia
+376. Homem, 71 anos, de Curionópolis
+377. Mulher, 48 anos, de Curuçá
+378. Mulher, 59 anos, de Curuçá
+379. Homem, 61 anos, de Curuçá
+380. Mulher, 25 anos, de Dom Eliseu
+381. Mulher, 25 anos, de Garrafão do Norte
+382. Mulher, 28 anos, de Garrafão do Norte
+383. Homem, 37 anos, de Goianésia do Pará
+384. Homem, 65 anos, de Goianésia do Pará
+385. Mulher, 75 anos, de Goianésia do Pará
+386. Mulher, 26 anos, de Igarapé-Açu
+387. Mulher, 35 anos, de Igarapé-Açu
+388. Homem, 38 anos, de Igarapé-Açu
+389. Mulher, 38 anos, de Igarapé-Açu
+390. Homem, 43 anos, de Igarapé-Açu
+391. Homem, 45 anos, de Igarapé-Açu
+392. Mulher, 102 anos, de Igarapé-Miri
+393. Mulher, 24 anos, de Igarapé-Miri
+394. Mulher, 25 anos, de Igarapé-Miri
+395. Homem, 29 anos, de Igarapé-Miri
+396. Mulher, 35 anos, de Igarapé-Miri
+397. Mulher, 35 anos, de Igarapé-Miri
+398. Homem, 35 anos, de Igarapé-Miri
+399. Mulher, 36 anos, de Igarapé-Miri
+400. Mulher, 37 anos, de Igarapé-Miri
+401. Homem, 42 anos, de Igarapé-Miri
+402. Mulher, 48 anos, de Igarapé-Miri
+403. Mulher, 56 anos, de Igarapé-Miri
+404. Mulher, 76 anos, de Igarapé-Miri
+405. Mulher, Idade não informada, de Igarapé-Miri
+406. Mulher, 71 anos, de Ipixuna do Pará
+407. Mulher, 31 anos, de Irituia
+408. Homem, 22 anos, de Itaituba
+409. Mulher, 32 anos, de Itaituba
+410. Homem, 34 anos, de Itaituba
+411. Homem, 41 anos, de Itaituba
+412. Mulher, 25 anos, de Juruti
+413. Homem, 33 anos, de Limoeiro do Ajuru
+414. Mulher, 35 anos, de Limoeiro do Ajuru
+415. Homem, 43 anos, de Limoeiro do Ajuru
+416. Mulher, 45 anos, de Limoeiro do Ajuru
+417. Homem, 46 anos, de Limoeiro do Ajuru
+418. Mulher, 50 anos, de Limoeiro do Ajuru
+419. Mulher, 50 anos, de Limoeiro do Ajuru
+420. Homem, 59 anos, de Limoeiro do Ajuru
+421. Homem, 59 anos, de Limoeiro do Ajuru
+422. Mulher, 63 anos, de Limoeiro do Ajuru
+423. Mulher, 66 anos, de Limoeiro do Ajuru
+424. Homem, 78 anos, de Limoeiro do Ajuru
+425. Homem, 80 anos, de Limoeiro do Ajuru
+426. Mulher, 27 anos, de Magalhães Barata
+427. Homem, 30 anos, de Magalhães Barata
+428. Mulher, 32 anos, de Magalhães Barata
+429. Mulher, 32 anos, de Magalhães Barata
+430. Homem, 36 anos, de Magalhães Barata
+431. Mulher, 37 anos, de Magalhães Barata
+432. Homem, 42 anos, de Magalhães Barata
+433. Mulher, 42 anos, de Magalhães Barata
+434. Homem, 42 anos, de Magalhães Barata
+435. Homem, 43 anos, de Magalhães Barata
+436. Homem, 44 anos, de Magalhães Barata
+437. Mulher, 45 anos, de Magalhães Barata
+438. Mulher, 51 anos, de Magalhães Barata
+439. Homem, 72 anos, de Magalhães Barata
+440. Homem, 72 anos, de Magalhães Barata
+441. Mulher, 23 anos, de Marabá
+442. Mulher, 33 anos, de Marabá
+443. Homem, 37 anos, de Marabá
+444. Mulher, 39 anos, de Marabá
+445. Homem, 45 anos, de Marabá
+446. Mulher, 54 anos, de Marabá
+447. Mulher, 64 anos, de Marabá
+448. Mulher, 68 anos, de Marabá
+449. Homem, 72 anos, de Marabá
+450. Homem, 63 anos, de Marapanim
+451. Homem, 75 anos, de Marapanim
+452. Homem, 30 anos, de Marituba
+453. Homem, 30 anos, de Marituba
+454. Mulher, 30 anos, de Marituba
+455. Mulher, 35 anos, de Marituba
+456. Homem, 37 anos, de Marituba
+457. Homem, 39 anos, de Marituba
+458. Mulher, 45 anos, de Marituba
+459. Homem, 49 anos, de Marituba
+460. Homem, 59 anos, de Marituba
+461. Homem, 34 anos, de Melgaço
+462. Homem, 57 anos, de Melgaço
+463. Homem, 70 anos, de Melgaço
+464. Homem, 95 anos, de Melgaço
+465. Mulher, 28 anos, de Mojuí dos Campos
+466. Mulher, 72 anos, de Mojuí dos Campos
+467. Mulher, 64 anos, de Monte Alegre
+468. Mulher, 68 anos, de Monte Alegre
+469. Homem, 76 anos, de Monte Alegre
+470. Homem, 96 anos, de Nova Ipixuna
+471. Mulher, 24 anos, de Novo Repartimento
+472. Homem, 21 anos, de Oeiras do Pará
+473. Homem, 24 anos, de Oeiras do Pará
+474. Mulher, 27 anos, de Oeiras do Pará
+475. Mulher, 31 anos, de Oeiras do Pará
+476. Homem, 32 anos, de Oeiras do Pará
+477. Homem, 34 anos, de Oeiras do Pará
+478. Mulher, 35 anos, de Oeiras do Pará
+479. Mulher, 36 anos, de Oeiras do Pará
+480. Mulher, 37 anos, de Oeiras do Pará
+481. Mulher, 39 anos, de Oeiras do Pará
+482. Mulher, 39 anos, de Oeiras do Pará
+483. Mulher, 41 anos, de Oeiras do Pará
+484. Mulher, 44 anos, de Oeiras do Pará
+485. Homem, 47 anos, de Oeiras do Pará
+486. Homem, 61 anos, de Oeiras do Pará
+487. Mulher, 68 anos, de Oeiras do Pará
+488. Homem, 77 anos, de Oeiras do Pará
+489. Homem, 14 anos, de Ourém
+490. Mulher, 33 anos, de Ourém
+491. Mulher, 44 anos, de Ourém
+492. Homem, 44 anos, de Ourém
+493. Mulher, 55 anos, de Ourém
+494. Mulher, 78 anos, de Pacajá
+495. Homem, 27 anos, de Paragominas
+496. Homem, 33 anos, de Paragominas
+497. Homem, 36 anos, de Paragominas
+498. Mulher, 37 anos, de Paragominas
+499. Mulher, 38 anos, de Paragominas
+500. Homem, 39 anos, de Paragominas
+501. Homem, 39 anos, de Paragominas
+502. Mulher, 40 anos, de Paragominas
+503. Homem, 47 anos, de Paragominas
+504. Homem, 52 anos, de Paragominas
+505. Homem, 54 anos, de Paragominas
+506. Mulher, 56 anos, de Paragominas
+507. Mulher, 60 anos, de Paragominas
+508. Mulher, 64 anos, de Paragominas
+509. Mulher, 23 anos, de Parauapebas
+510. Mulher, 23 anos, de Parauapebas
+511. Homem, 24 anos, de Parauapebas
+512. Homem, 26 anos, de Parauapebas
+513. Homem, 28 anos, de Parauapebas
+514. Homem, 32 anos, de Parauapebas
+515. Homem, 33 anos, de Parauapebas
+516. Mulher, 35 anos, de Parauapebas
+517. Homem, 38 anos, de Parauapebas
+518. Homem, 39 anos, de Parauapebas
+519. Homem, 39 anos, de Parauapebas
+520. Homem, 42 anos, de Parauapebas
+521. Homem, 48 anos, de Parauapebas
+522. Mulher, 49 anos, de Parauapebas
+523. Homem, 55 anos, de Parauapebas
+524. Homem, 57 anos, de Parauapebas
+525. Mulher, 59 anos, de Parauapebas
+526. Homem, 59 anos, de Parauapebas
+527. Homem, 69 anos, de Parauapebas
+528. Homem, 76 anos, de Parauapebas
+529. Mulher, 86 anos, de Parauapebas
+530. Mulher, 88 anos, de Parauapebas
+531. Mulher, 22 anos, de Portel
+532. Homem, 29 anos, de Portel
+533. Mulher, 34 anos, de Portel
+534. Mulher, 36 anos, de Portel
+535. Homem, 73 anos, de Portel
+536. Homem, 50 anos, de Quatipuru
+537. Homem, 66 anos, de Quatipuru
+538. Mulher, 66 anos, de Quatipuru
+539. Mulher, 26 anos, de Rio Maria
+540. Homem, 27 anos, de Rio Maria
+541. Homem, 79 anos, de Salinópolis
+542. Homem, 28 anos, de Salvaterra
+543. Mulher, 44 anos, de Salvaterra
+544. Mulher, 50 anos, de Salvaterra
+545. Mulher, 35 anos, de Santa Bárbara do Pará
+546. Mulher, 42 anos, de Santa Bárbara do Pará
+547. Homem, 34 anos, de Santa Izabel do Pará
+548. Mulher, 49 anos, de Santa Izabel do Pará
+549. Homem, 54 anos, de Santa Izabel do Pará
+550. Homem, 61 anos, de Santa Izabel do Pará
+551. Homem, 72 anos, de Santa Izabel do Pará
+552. Homem, 72 anos, de Santa Izabel do Pará
+553. Mulher, 39 anos, de Santa Maria do Pará
+554. Mulher, 16 anos, de Santana do Araguaia
+555. Homem, 26 anos, de Santana do Araguaia
+556. Mulher, 39 anos, de Santana do Araguaia
+557. Homem, 24 anos, de Santarém
+558. Mulher, 28 anos, de Santarém
+559. Mulher, 30 anos, de Santarém
+560. Homem, 32 anos, de Santarém
+561. Mulher, 36 anos, de Santarém
+562. Mulher, 37 anos, de Santarém
+563. Mulher, 40 anos, de Santarém
+564. Homem, 44 anos, de Santarém
+565. Mulher, 80 anos, de Santarém
+566. Mulher, 41 anos, de São Caetano de Odivelas
+567. Mulher, 88 anos, de São Caetano de Odivelas
+568. Homem, 67 anos, de São Domingos do Araguaia
+569. Homem, 77 anos, de São Domingos do Capim
+570. Homem, 81 anos, de São Domingos do Capim
+571. Homem, 35 anos, de São Miguel do Guamá
+572. Mulher, 38 anos, de São Miguel do Guamá
+573. Homem, 41 anos, de São Miguel do Guamá
+574. Homem, 43 anos, de São Miguel do Guamá
+575. Homem, 48 anos, de São Miguel do Guamá
+576. Homem, 49 anos, de São Miguel do Guamá
+577. Homem, 59 anos, de São Miguel do Guamá
+578. Homem, 67 anos, de São Miguel do Guamá
+579. Mulher, 70 anos, de São Miguel do Guamá
+580. Mulher, 70 anos, de São Miguel do Guamá
+581. Homem, 74 anos, de São Miguel do Guamá
+582. Homem, 79 anos, de São Miguel do Guamá
+583. Homem, 23 anos, de Tailândia
+584. Homem, 30 anos, de Tailândia
+585. Mulher, 38 anos, de Tailândia
+586. Mulher, 39 anos, de Tailândia
+587. Mulher, 67 anos, de Tailândia
+588. Mulher, 73 anos, de Tailândia
+589. Homem, 87 anos, de Tailândia
+590. Homem, 33 anos, de Tomé-Açu
+591. Homem, 46 anos, de Tomé-Açu
+592. Mulher, 60 anos, de Tomé-Açu
+593. Homem, 69 anos, de Tomé-Açu
+594. Mulher, 73 anos, de Tomé-Açu
+595. Homem, 32 anos, de Trairão
+596. Mulher, 35 anos, de Trairão
+597. Homem, 40 anos, de Trairão
+598. Homem, 42 anos, de Trairão
+599. Mulher, 44 anos, de Tucumã
+600. Homem, 49 anos, de Tucumã
+601. Mulher, 55 anos, de Tucumã
+602. Homem, 64 anos, de Tucumã
+603. Mulher, 10 anos, de Uruará
+604. Mulher, 23 anos, de Uruará
+605. Homem, 29 anos, de Uruará
+606. Homem, 33 anos, de Uruará
+607. Mulher, 36 anos, de Uruará
+608. Homem, 38 anos, de Uruará
+609. Homem, 4 anos, de Uruará
+610. Mulher, 40 anos, de Uruará
+611. Mulher, 46 anos, de Vigia
+612. Homem, 49 anos, de Vigia
+613. Mulher, 26 anos, de Vitória do Xingu
+614. Mulher, 27 anos, de Vitória do Xingu
+615. Mulher, 34 anos, de Vitória do Xingu
+616. Mulher, 45 anos, de Vitória do Xingu
+617. Mulher, 52 anos, de Vitória do Xingu
+618. Mulher, 22 anos, de Xinguara
+619. Homem, 30 anos, de Xinguara
+620. Mulher, 31 anos, de Xinguara
+621. Mulher, 31 anos, de Xinguara
+622. Mulher, 32 anos, de Xinguara
+623. Mulher, 33 anos, de Xinguara
+624. Mulher, 36 anos, de Xinguara
+625. Mulher, 38 anos, de Xinguara
+626. Mulher, 39 anos, de Xinguara
+627. Mulher, 48 anos, de Xinguara
+628. Homem, 49 anos, de Xinguara
+629. Homem, 53 anos, de Xinguara
+630. Mulher, 53 anos, de Xinguara
